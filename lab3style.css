@@ -1,11 +1,14 @@
 /*Color for the headings at the top*/
 .headings {
     background-color:rgb(255,0,0);
+    width: 600px;
+    height: 35px;
 }
 
 #Attendance {
     color: white;
     background-color: #000000
+    
 }
 
 
