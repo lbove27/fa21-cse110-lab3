@@ -14,6 +14,12 @@
     position:static;
 }
 
+/*Selector list */
+h1, h2, h3 {
+    font-family: sans-serif;
+}
+
+/*Color and positioning for the attendence heading*/
 #Attendance {
     color: white;
     background-color: #000000;
@@ -25,6 +31,7 @@
     position: relative;
 }
 
+/*Color and positioning for all paragraphs*/
 p {
     background-color: yellow;
     max-width: 6.25in;
@@ -39,12 +46,27 @@ p {
     position: relative;
 }
 
+/*All the color and positioning for a*/
 a:hover {
     background-color:blue;
 }
 
 a:active {
     background-color:yellowgreen;
+}
+
+a[href^="https"] {
+    background-color:gold;
+}
+/*Universal selector*/
+* {
+    position: relative;
+}
+
+@media (min-width: 700px) {
+    p {
+        font-size: 1rem;
+    }
 }
 
 
