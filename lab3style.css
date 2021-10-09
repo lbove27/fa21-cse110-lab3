@@ -3,12 +3,21 @@
     background-color:rgb(255,0,0);
     width: 600px;
     height: 35px;
+    margin: 25px 25px 25px 25px;
 }
 
 #Attendance {
     color: white;
-    background-color: #000000
-    
+    background-color: #000000;
 }
 
+p {
+    background-color: yellow;
+    max-width: 6.25in;
+    max-height: 5cm;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
 
