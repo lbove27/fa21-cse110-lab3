@@ -22,7 +22,7 @@
     padding-top: 10px;
     padding-bottom: 10px;
     display: inline;
-    position: fixed;
+    position: relative;
 }
 
 p {
@@ -37,6 +37,14 @@ p {
     font-size: 1.5em;
     display: block;
     position: relative;
+}
+
+a:hover {
+    background-color:blue;
+}
+
+a:active {
+    background-color:yellowgreen;
 }
 
 
