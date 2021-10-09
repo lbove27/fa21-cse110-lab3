@@ -63,6 +63,27 @@ a[href^="https"] {
     position: relative;
 }
 
+ul > li {
+    border-left: 3px solid blue; 
+}
+
+.container {
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction:column;
+    flex-flow:column;
+}
+
+.contains {
+    display:grid;
+    grid-auto-rows: minmax(100px, auto);
+    grid-auto-columns: minmax(100px, auto);
+    grid-auto-flow: dense;
+}
+
+
+
+
 @media (min-width: 700px) {
     p {
         font-size: 1rem;
