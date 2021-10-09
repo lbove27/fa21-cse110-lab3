@@ -38,7 +38,7 @@ h1, h2, h3 {
 
 /*Color and positioning for all paragraphs*/
 p {
-    background-color: yellow;
+    background-color: #ffff00;
     max-width: 6.25in;
     max-height: 5cm;
     margin-top: 2ex;
