@@ -14,6 +14,11 @@
     position:static;
 }
 
+/*Selector list*/
+h1, h2, h3 {
+    font-family: sans-serif;
+}
+
 /*Color and positioning for the attendence heading*/
 #Attendance {
     color: white;
@@ -56,6 +61,12 @@ a[href^="https"] {
 /*Universal selector*/
 * {
     position: relative;
+}
+
+@media (min-width: 700px) {
+    p {
+        font-size: 1rem;
+    }
 }
 
 
