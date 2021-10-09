@@ -15,11 +15,12 @@ p {
     background-color: yellow;
     max-width: 6.25in;
     max-height: 5cm;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-top: 2ex;
+    margin-bottom: 2ex;
+    margin-left: 2vw;
+    margin-right: 2vw;
     font-family: 'PT Sans', sans-serif;
+    font-size: 1.5em;
 }
 
 
