@@ -2,8 +2,6 @@
 
 ## **Take Attendance**
 
-## **First Meme of the Day:**
-
 ### **Team Member 1 Check-in:**
 
 - What they did yesterday:
@@ -87,8 +85,6 @@
 - What is blocking them:
 
 > Solutions for the blockage:
-
-## **Last Meme of the Day:**
 
 
 
